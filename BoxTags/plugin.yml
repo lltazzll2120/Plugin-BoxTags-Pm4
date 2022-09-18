@@ -1,0 +1,9 @@
+name: LootboxTags
+main: box\LootBox
+version: 1.0.0
+api: 4.0.0
+author: Tazz
+
+permissions:
+  box.spawn:
+    default: op
